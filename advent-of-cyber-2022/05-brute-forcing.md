@@ -3,6 +3,7 @@
 ## Use Hydra to find the VNC password of the target with IP address 10.10.192.241. What is the password?
 
 I am using [Threader 3000](https://github.com/dievus/threader3000) to scan all ports of the machine. 
+![image](https://user-images.githubusercontent.com/34974437/205660542-b9a376fc-0fa2-4809-95aa-7e653fbce65c.png)
 
 ![image](https://user-images.githubusercontent.com/34974437/205657870-3f888093-fb56-41d2-bafe-39631546f160.png)
 
