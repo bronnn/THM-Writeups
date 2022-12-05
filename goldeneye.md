@@ -17,5 +17,7 @@ Further research uncovers that this method of encoding is HTML encoding. We can 
 With these decoded credentials, we can navigate to /sev-home and login.
 
 Once we login, we see the mention of the pop3 service. The credentials for the website do not seem to work, so we can attempt to use hydra to brute force our login to this service.
+![image](https://user-images.githubusercontent.com/34974437/205656435-8dc178aa-6f9b-49d1-97f8-8faa84c6668b.png)
+
 
 
